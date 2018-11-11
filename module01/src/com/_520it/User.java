@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Date;
 
 public class User {
+    //git
     private Long id;
     private String name;
 
