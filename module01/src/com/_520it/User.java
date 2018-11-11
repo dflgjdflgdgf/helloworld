@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Date;
 
 public class User {
+    //location
     private Long id;
     private String name;
 
